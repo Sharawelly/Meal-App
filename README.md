@@ -17,14 +17,6 @@
 
 ---
 
-## 📸 Screenshots  
-
-| Home Screen  | Category Meals  | Meal Details |
-|-------------|----------------|--------------|
-| ![Home](https://your-image-link-here) | ![Category](https://your-image-link-here) | ![Details](https://your-image-link-here) |
-
----
-
 ## 🚀 Getting Started  
 
 ### 1️⃣ Prerequisites  
