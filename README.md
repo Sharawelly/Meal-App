@@ -1,11 +1,5 @@
 # 🍽️ Meal App - Flutter & Riverpod  
 
-> A beautifully animated **meal recipe app** built with Flutter! Browse delicious meals, filter them based on your preferences, and mark your favorites effortlessly.  
-
-![Meal App](https://your-image-link-here)  
-
----
-
 ## 🌟 Features  
 
 👉 **Explore Categories** – Browse meals by category.  
